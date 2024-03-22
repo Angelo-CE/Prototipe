@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Prototipe</string>
+    <string name="btnstart">Iniciar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="passwordc">Confirmar contraseña</string>
+    <string name="start_sesion">Iniciar Sesion</string>
+    <string name="register_ms">Si aun no estas registrado</string>
+    <string name="register">Registrarse</string>
+    <string name="personalid">Cedula</string>
+    <string name="nameandlast">Nombre completo</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="adress">Direccion</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Platos</string>
+    <string name="pedido">Lista de la orden</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="day">Dia</string>
+    <string name="month">Mes</string>
+    <string name="year">Año</string>
+    <string name="birthday">Fecha de nacimiento</string>
+    <string name="phonenum">Numero de telefono</string>
+    <string name="create">Crear cuenta</string>
+
+
+</resources>
